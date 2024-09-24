@@ -8925,7 +8925,7 @@ __metadata:
     react-test-renderer-17: "npm:react-test-renderer@^17"
     redux: ^4.0.5
     rimraf: ^3.0.2
-    rollup: ^2.32.1
+    rollup: ^3.29.5
     rollup-plugin-terser: ^7.0.2
     ts-jest: 26.5.6
     typescript: ^4.3.4
@@ -9445,9 +9445,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"rollup@npm:^2.32.1":
-  version: 2.55.0
-  resolution: "rollup@npm:2.55.0"
+"rollup@npm:^3.29.5":
+  version: 3.29.5
+  resolution: "rollup@npm:3.29.5"
   dependencies:
     fsevents: ~2.3.2
   dependenciesMeta:
@@ -9455,7 +9455,7 @@ __metadata:
       optional: true
   bin:
     rollup: dist/bin/rollup
-  checksum: 9269671325aff6e887419838326a9d5e86f725ddc89d114c20fc4942d25eca8fcdd8869a566d8b6636fd62942d23873b9e0384d07db8ec829000581ea7986bdb
+  checksum: 1c4bb3780c0290e1df57dfe72a16793e374da2fa25a6d8f789f7101a20c408c82786be29a8a858dd179f26452b1dd29f7a0abb597e2312cbfae1434b78959225
   languageName: node
   linkType: hard
 
